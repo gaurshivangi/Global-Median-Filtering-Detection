@@ -3,13 +3,13 @@
 The directory has the following structure:
 
 
-Video
-Code
-mf
-avg
-gaus
-res
-Jpeg
+- Video
+- Code
+	- mf
+	- avg
+	- gaus
+	- res
+	- Jpeg
 
 	Median_filtering.ipynb
 	Other_attacks.ipynb
